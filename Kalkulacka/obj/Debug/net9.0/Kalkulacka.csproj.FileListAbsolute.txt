@@ -1,0 +1,14 @@
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/Kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/Kalkulacka.AssemblyInfoInputs.cache
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/Kalkulacka.AssemblyInfo.cs
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/Kalkulacka.csproj.CoreCompileInputs.cache
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/bin/Debug/net9.0/Kalkulacka
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/bin/Debug/net9.0/Kalkulacka.deps.json
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/bin/Debug/net9.0/Kalkulacka.runtimeconfig.json
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/bin/Debug/net9.0/Kalkulacka.dll
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/bin/Debug/net9.0/Kalkulacka.pdb
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/Kalkulacka.dll
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/refint/Kalkulacka.dll
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/Kalkulacka.pdb
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/Kalkulacka.genruntimeconfig.cache
+/home/adam/RiderProjects/KonzoloveApps/Kalkulacka/obj/Debug/net9.0/ref/Kalkulacka.dll
